@@ -1,0 +1,35 @@
+* {
+    font-family: "Asap", sans-serif;
+    background-color: #AA8739;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-family: 'Limelight', cursive;
+    margin-left: 5%;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.header > * {
+    background-color: #AA4639;
+    padding-top: 30px;
+}
+
+.header {
+    background-color: #AA4639;
+    margin-bottom: 5px;
+    width: 100%;
+    min-height: 100px;
+}
+
+ul, ol {
+    margin-left: 10%;
+}
